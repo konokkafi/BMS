@@ -1,0 +1,4 @@
+#Mon Apr 16 00:27:32 BDT 2018
+base.0=/home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/build/intermediates/transforms/dexMerger/debug/44
+path.0=classes.dex
+renamed.0=classes.dex

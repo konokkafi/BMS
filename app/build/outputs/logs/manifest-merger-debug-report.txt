@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8849fd9c68aaa854fbb52606c304dab1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/konok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7f10af82a294996f442c013959002940/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b39aea02c9388daf3d27e54b9026c7e5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/836b500cfc381f79834edf07b0cc4c69/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f8ddf9d921b27999de608d86a1669f1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0a99da19b1457ce7b887e8c9661a0d08/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b01fd2fce5e47593344a699471950eb5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/20a117a76af7e408da52353d24c8291f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d640730222905df0e17c5d61eff4e2c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f53643676e377497321261a26b2087cc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fe696ebc3ce2c04c12888386aaa00077/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/238ce081eb975b6fa231300bdd0ea962/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8849fd9c68aaa854fbb52606c304dab1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8849fd9c68aaa854fbb52606c304dab1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/konok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7f10af82a294996f442c013959002940/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/konok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7f10af82a294996f442c013959002940/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b39aea02c9388daf3d27e54b9026c7e5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b39aea02c9388daf3d27e54b9026c7e5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/836b500cfc381f79834edf07b0cc4c69/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/836b500cfc381f79834edf07b0cc4c69/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f8ddf9d921b27999de608d86a1669f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f8ddf9d921b27999de608d86a1669f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0a99da19b1457ce7b887e8c9661a0d08/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0a99da19b1457ce7b887e8c9661a0d08/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b01fd2fce5e47593344a699471950eb5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b01fd2fce5e47593344a699471950eb5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/20a117a76af7e408da52353d24c8291f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/20a117a76af7e408da52353d24c8291f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d640730222905df0e17c5d61eff4e2c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d640730222905df0e17c5d61eff4e2c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f53643676e377497321261a26b2087cc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f53643676e377497321261a26b2087cc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fe696ebc3ce2c04c12888386aaa00077/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fe696ebc3ce2c04c12888386aaa00077/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/238ce081eb975b6fa231300bdd0ea962/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/238ce081eb975b6fa231300bdd0ea962/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.buildingmanagementsyestem.MainActivity
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.buildingmanagementsyestem.Userlogin
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:24:19-44
+activity#com.example.buildingmanagementsyestem.Number_Of_Room
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:25:19-49
+activity#com.example.buildingmanagementsyestem.Rent
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:26:9-42
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:26:19-39
+activity#com.example.buildingmanagementsyestem.Manager_login
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.example.buildingmanagementsyestem.Show_rent
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:28:9-47
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:28:19-44
+activity#com.example.buildingmanagementsyestem.Show_details
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:29:19-47
+activity#com.example.buildingmanagementsyestem.main2
+ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml:30:19-40
+uses-sdk
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8849fd9c68aaa854fbb52606c304dab1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8849fd9c68aaa854fbb52606c304dab1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/konok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7f10af82a294996f442c013959002940/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/konok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7f10af82a294996f442c013959002940/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b39aea02c9388daf3d27e54b9026c7e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b39aea02c9388daf3d27e54b9026c7e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/836b500cfc381f79834edf07b0cc4c69/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/836b500cfc381f79834edf07b0cc4c69/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f8ddf9d921b27999de608d86a1669f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f8ddf9d921b27999de608d86a1669f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0a99da19b1457ce7b887e8c9661a0d08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0a99da19b1457ce7b887e8c9661a0d08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b01fd2fce5e47593344a699471950eb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b01fd2fce5e47593344a699471950eb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/20a117a76af7e408da52353d24c8291f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/20a117a76af7e408da52353d24c8291f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d640730222905df0e17c5d61eff4e2c7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d640730222905df0e17c5d61eff4e2c7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f53643676e377497321261a26b2087cc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f53643676e377497321261a26b2087cc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fe696ebc3ce2c04c12888386aaa00077/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fe696ebc3ce2c04c12888386aaa00077/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/238ce081eb975b6fa231300bdd0ea962/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/238ce081eb975b6fa231300bdd0ea962/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+		ADDED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+		INJECTED from /home/konok/AndroidStudioProjects/BuildingManagementSyestem/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8849fd9c68aaa854fbb52606c304dab1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8849fd9c68aaa854fbb52606c304dab1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b39aea02c9388daf3d27e54b9026c7e5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b39aea02c9388daf3d27e54b9026c7e5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/836b500cfc381f79834edf07b0cc4c69/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/836b500cfc381f79834edf07b0cc4c69/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f8ddf9d921b27999de608d86a1669f1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3f8ddf9d921b27999de608d86a1669f1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0a99da19b1457ce7b887e8c9661a0d08/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0a99da19b1457ce7b887e8c9661a0d08/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b01fd2fce5e47593344a699471950eb5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b01fd2fce5e47593344a699471950eb5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/20a117a76af7e408da52353d24c8291f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/20a117a76af7e408da52353d24c8291f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d640730222905df0e17c5d61eff4e2c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d640730222905df0e17c5d61eff4e2c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f53643676e377497321261a26b2087cc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f53643676e377497321261a26b2087cc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fe696ebc3ce2c04c12888386aaa00077/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fe696ebc3ce2c04c12888386aaa00077/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/238ce081eb975b6fa231300bdd0ea962/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/238ce081eb975b6fa231300bdd0ea962/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/konok/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/35e03a3b470baa6ccba7b757118272f7/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/konok/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0bfdc12f3e3f038fc329281c11641109/AndroidManifest.xml:26:13-58

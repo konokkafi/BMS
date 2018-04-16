@@ -24,7 +24,10 @@
         <activity android:name=".Userlogin" />
         <activity android:name=".Number_Of_Room" />
         <activity android:name=".Rent" />
-        <activity android:name=".Manager_login"></activity>
+        <activity android:name=".Manager_login" />
+        <activity android:name=".Show_rent" />
+        <activity android:name=".Show_details" />
+        <activity android:name=".main2"></activity>
     </application>
 
 </manifest>
